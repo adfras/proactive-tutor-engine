@@ -1,0 +1,19 @@
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+
+# IDE and OS specific files
+.vscode/
+.idea/
+*.DS_Store
+
+# Datasets - These are large and should NOT be in Git
+data/raw/*
+data/processed/*
+
+# Models - These are generated artifacts, not source code
+models/*

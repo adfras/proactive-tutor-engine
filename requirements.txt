@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+lightgbm
+joblib
+sentence-transformers
+torch
+matplotlib
+seaborn
+jupyterlab
+ipykernel
+gdown
